@@ -108,8 +108,3 @@ University of North Texas | May 2026
 ---
 
 *Building practical software and intelligent applications to solve meaningful problems.*
-- **Email:** 
-
----
-
-*Building practical software and intelligent applications to solve meaningful problems.*
